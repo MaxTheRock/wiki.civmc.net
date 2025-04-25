@@ -8,47 +8,47 @@ Aliases are shortenings for commands to make it faster and easier to type out an
 
 ## Aliases for:
 
-### /brush
+### `/brush`
 - //br
 - //brush
 - /br
 
-### //sel
+### `/sel`
 - //desel
 - //deselect
 - /;:
 
-### /toggleplace
+### `/toggleplace`
 - //toggleplace
   
-### /help
+### `/help`
 - /bellyflop
   
-### /combattagplus
+### `/combattagplus`
 - /combattag
 - /ct
 - /ctplus
 
-### /gcrawl
+### `/gcrawl`
 - /crawl
 
-### /ctpluslogout
+### `/ctpluslogout`
 - /ctlog
 - /ctlogout
 - /logout
 
-### /glay
+### `/glay`
 - /lay
 
-### /luckperms
+### `/luckperms`
 - /lp
 - /perm
 - /permission
 
-### /nlag
+### `/nlag`
 - /acceptgroup
 
-### /pp
+### `/pp`
 - /ppb
 - ppbroadcast
 - ppconfirm
@@ -58,22 +58,22 @@ Aliases are shortenings for commands to make it faster and easier to type out an
 - pplocate
 - ppsilence
 
-### /randomspawn
+### `/randomspawn`
 - /rs
 
-### /gsit
+### `/gsit`
 - /sit
 
-### /gspin
+### `/gspin`
 - /spin
 
-### /sv
+### `/sv`
 - /supervanish
 - /v
 - /vanish
 
-### /worldedit
+### `/worldedit`
 - /we
 
-### /worldeditselectionvisualizer
+### `/worldeditselectionvisualizer`
 - /wesv
