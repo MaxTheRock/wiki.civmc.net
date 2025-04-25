@@ -51,7 +51,7 @@ export default defineConfig({
               { text: "Realistic Biomes", link: "pages/plugins/unique/rb" },
               { text: "Heliodor", link: "pages/plugins/unique/heliodor" },
               { text: "Transport Changes", link: "pages//plugins/unique/Transport" },
-              { text: "Chunk Limits",link: "pages/plugins/unique/chunklimits" },
+              { text: "Chunk Limits", link: "pages/plugins/unique/chunklimits" },
             ],
           },
           {
@@ -67,6 +67,19 @@ export default defineConfig({
               { text: "Elevators", link: "pages/plugins/fun/elevators" },
               { text: "Castlegate", link: "pages/plugins/fun/castlegate" },
               { text: "Arthropod Egg", link: "pages/plugins/fun/arthropodegg" },
+            ],
+          },
+        ],
+      },
+      {
+        text: "Commands",
+        items: [
+          {
+            text: "Test",
+            link: "/pages/commands/test1",
+            collapsed: false,
+            items: [
+              { text: "Test", link: "/pages/commands/test1/test" },
             ],
           },
         ],
