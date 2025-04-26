@@ -80,7 +80,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "Aliases", link: "/pages/commands/a/aliases" },
-              { text: "/", link: "/pages/commands/a/slash" },
             ],
           },
           {
@@ -91,7 +90,6 @@ export default defineConfig({
               { text: "Bastion", link: "/pages/commands/b/bastion" },
               { text: "BreweryX", link: "/pages/commands/b/breweryx" },
               { text: "Bukkit", link: "/pages/commands/b/bukkit" },
-              { text: "/", link: "/pages/commands/b/slash" },
             ],
           },
           {
@@ -106,7 +104,6 @@ export default defineConfig({
               { text: "ClearLag", link: "/pages/commands/c/clearlag" },
               { text: "CombatTagPlus", link: "/pages/commands/c/combattagplus" },
               { text: "CraftEnhance", link: "/pages/commands/c/craftenhance" },
-              { text: "/", link: "/pages/commands/c/slash" },
             ],
           },
           {
@@ -115,7 +112,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "Donum", link: "/pages/commands/d/donum" },
-              { text: "/", link: "/pages/commands/d/slash" },
             ],
           },
           {
@@ -125,7 +121,6 @@ export default defineConfig({
             items: [
               { text: "EssenceGlue", link: "/pages/commands/e/essenceglue" },
               { text: "ExilePearl", link: "/pages/commands/e/exilepearl" },
-              { text: "/", link: "/pages/commands/e/slash" },
             ],
           },
           {
@@ -135,7 +130,6 @@ export default defineConfig({
             items: [
               { text: "FactoryMod", link: "/pages/commands/f/factorymod" },
               { text: "Finale", link: "/pages/commands/f/finale" },
-              { text: "/", link: "/pages/commands/f/slash" },
             ],
           },
           {
@@ -144,7 +138,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "GSit", link: "/pages/commands/g/gsit" },
-              { text: "/", link: "/pages/commands/g/slash" },
             ],
           },
           {
@@ -153,7 +146,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "Help", link: "/pages/commands/h/help" },
-              { text: "/", link: "/pages/commands/h/slash" },
             ],
           },
           {
@@ -163,7 +155,6 @@ export default defineConfig({
             items: [
               { text: "Insights", link: "/pages/commands/i/insights" },
               { text: "ItemExchange", link: "/pages/commands/i/itemexchange" },
-              { text: "/", link: "/pages/commands/i/slash" },
             ],
           },
           {
@@ -172,7 +163,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "JukeAlert", link: "/pages/commands/j/jukealert" },
-              { text: "/", link: "/pages/commands/j/slash" },
             ],
           },
           {
@@ -181,7 +171,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "KiraBukkitGateway", link: "/pages/commands/k/kirabukkitgateway" },
-              { text: "/", link: "/pages/commands/k/slash" },
             ],
           },
           {
@@ -190,7 +179,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "LuckPerms", link: "/pages/commands/l/luckperms" },
-              { text: "/", link: "/pages/commands/l/slash" },
             ],
           },
           {
@@ -199,7 +187,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "NameLayer", link: "/pages/commands/n/namelayer" },
-              { text: "/", link: "/pages/commands/n/slash" },
             ],
           },
           {
@@ -210,7 +197,6 @@ export default defineConfig({
               { text: "RailSwitch", link: "/pages/commands/r/railswitch" },
               { text: "RandomSpawn", link: "/pages/commands/r/randomspawn" },
               { text: "RealisticBiomes", link: "/pages/commands/r/realisticbiomes" },
-              { text: "/", link: "/pages/commands/r/slash" },
             ],
           },
           {
@@ -220,7 +206,6 @@ export default defineConfig({
             items: [
               { text: "SimpleAdminHacks", link: "/pages/commands/s/simpleadminhacks" },
               { text: "SuperVanish", link: "/pages/commands/s/supervanish" },
-              { text: "/", link: "/pages/commands/s/slash" },
             ],
           },
           {
@@ -229,7 +214,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "TAB", link: "/pages/commands/t/tab" },
-              { text: "/", link: "/pages/commands/t/slash" },
             ],
           },
           {
@@ -239,7 +223,6 @@ export default defineConfig({
             items: [
               { text: "voicechat", link: "/pages/commands/v/voicechat" },
               { text: "Vulcan", link: "/pages/commands/v/vulcan" },
-              { text: "/", link: "/pages/commands/v/slash" },
             ],
           },
           {
@@ -249,7 +232,6 @@ export default defineConfig({
             items: [
               { text: "WorldEdit", link: "/pages/commands/w/worldedit" },
               { text: "WorldEditSelectionVisualizer", link: "/pages/commands/w/worldeditselectionvisualizer" },
-              { text: "/", link: "/pages/commands/w/slash" },
             ],
           },
         ],

@@ -5,10 +5,8 @@ description: All commands with the starting letter as 'B'
 
 # B - All Commands
 
-[Bastion](./bastion) - Aliases for certain commands.
+[Bastion](./bastion) - All Bastion commands.
 
-[BreweryX](./breweryx) - Aliases for certain commands.
+[BreweryX](./breweryx) - Summary of BreweryX. More info can be found [here](/pages/plugins/fun/brewery).
 
-[Bukkit](./bukkit) - Aliases for certain commands.
-
-[/](./slash) - Commands with slash before.
+[Bukkit](./bukkit) - Consists of the `/help` command
